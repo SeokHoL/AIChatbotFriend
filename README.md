@@ -32,10 +32,10 @@ AIChatbotFriend는 OpenAI API 자연어 처리 기술을 활용하여 사용자�
             <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="20">
         </td>
         <td>
-            Python을 사용하여 웹 인터페이스 기능 구현.<br>
-            Streamlit을 이용한 사용자 인터페이스 구축.<br>
-            LangChain으로 NLP 작업 및 대화 기록 관리.<br>
-            OpenAI의 API를 활용한 자연스러운 대화생성.
+            Python을 사용하여 웹 인터페이스 기능 구현<br>
+            Streamlit을 이용한 사용자 인터페이스 구축<br>
+            LangChain으로 NLP 작업 및 대화 기록 관리<br>
+            OpenAI의 API를 활용한 자연스러운 대화생성
         </td>
     </tr>
 </table>
