@@ -43,19 +43,26 @@ AIChatbotFriend는 OpenAI API 자연어 처리 기술을 활용하여 사용자�
 
 ## 3. 개요
 
-- **프로젝트 이름**: Travel-agency-website
-- **프로젝트 개발 기간**: 2023.04.10 ~ 06.20
-- **개발 언어**: 
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"  height="20">
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="20">
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-
+- **프로젝트 이름**: AIChatbotFriend
+- **프로젝트 개발 기간**: 2024.04.01 ~ 06.10
+- **개발 언어**: <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="20">
 
 ## 4. 구현 핵심 기술
 
-- **HTML5, CSS 를 사용하여 전체 레이아웃과 스타일링**
-- **JavaScript, jquery 를 사용하여 사용자 인터랙션 처리, DOM조작 및 이벤트처리**
-- **로그인, 회원가입, 각 특정 여행패키지 소개 페이지 구현**
+- **Python:  데이터 처리, 모델 호출, 웹 인터페이스 기능 구현에 사용.**
+- **Streamlit:  사용자 친화적인 웹 애플리케이션을 손쉽게 구축할 수 있도록 지원.**
+- **LangChain:  자연어 처리 작업을 수행하고 대화 기록을 효율적으로 관리.**
+- **OpenAI:  사용자의 입력에 대한 자연스러운 응답을 생성.**
+- **Hugging Face:  사용자의 감정을 분석하여 보다 적절한 응답 제공.**
+- **MarianMT :  한국어와 영어 간의 번역 기능 제공으로 사용자 입력 이해도 향상.**
+<!-- 
+- **Python을 사용하여 데이터 처리 및 모델 호출**: 데이터 처리, 모델 호출, 웹 인터페이스 기능 구현에 사용.
+- **Streamlit을 이용한 사용자 인터페이스 구축**: 사용자 친화적인 웹 애플리케이션을 손쉽게 구축할 수 있도록 지원.
+- **LangChain으로 NLP 작업 및 대화 기록 관리**: 자연어 처리 작업을 수행하고 대화 기록을 효율적으로 관리.
+- **OpenAI의 ChatGPT를 활용하여 자연스러운 대화 생성**: 사용자의 입력에 대한 자연스러운 응답을 생성.
+- **Hugging Face의 감정 분석 모델 사용**: 사용자의 감정을 분석하여 보다 적절한 응답 제공.
+- **MarianMT 모델을 이용한 번역 기능**: 한국어와 영어 간의 번역 기능 제공으로 사용자 입력 이해도 향상.
+-->
 
 
 ## 5. 시현 영상
