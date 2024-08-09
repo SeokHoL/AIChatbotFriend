@@ -65,7 +65,7 @@ AIChatbotFriend는 OpenAI API 자연어 처리 기술을 활용하여 사용자�
 -->
 
 
-## 5. 시현 영상
+## 5. 시현 스크린샷
 
 
   <img src="https://github.com/user-attachments/assets/f317841a-149c-4970-9a77-f4a148df3cc6" >
