@@ -67,5 +67,11 @@ AIChatbotFriend는 OpenAI API 자연어 처리 기술을 활용하여 사용자�
 
 ## 5. 시현 영상
 
-![bandicam-2024-08-08-09-47-55-224](https://github.com/user-attachments/assets/62dbc580-da53-4668-b508-eb4559642722)
+
+  <img src="https://github.com/user-attachments/assets/f317841a-149c-4970-9a77-f4a148df3cc6" >
+  <img src="https://github.com/user-attachments/assets/29fa3473-20f5-47c2-9338-e191aa53438c" >
+
+
+
+<!-- ![bandicam-2024-08-08-09-47-55-224](https://github.com/user-attachments/assets/62dbc580-da53-4668-b508-eb4559642722) -->
 
