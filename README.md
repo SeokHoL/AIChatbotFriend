@@ -77,7 +77,7 @@ AIChatbotFriend는 OpenAI API 자연어 처리 기술을 활용하여 사용자�
 <!--
 <p>시현 영상</p>
 <p><a href="https://www.youtube.com/watch?v=YZhG4JzQ4CI">유튜브 방문하기</a></p>-->
-
+우리가 만든 애플리케이션을 직접 체험해 보세요!
 > [데모사이트방문](https://aikopo.net/)
 <!-- ![한이음ICT공모전](https://github.com/user-attachments/assets/36d2066c-fcd7-4df5-ad60-bdbbbaa69e34)-->
 
